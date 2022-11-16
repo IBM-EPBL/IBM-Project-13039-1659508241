@@ -18,8 +18,7 @@
 <img src='https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif' alt="Flags" width="350" height="300"></img> <img src='https://media3.giphy.com/media/TjS53njIE2pxbZI22T/giphy.gif?cid=790b7611104412da8a69fa6a01ef8ca9ca013b605a21ea72&rid=giphy.gif&ct=s' alt="Flags" width="350" height="300"></img>
   </div> 
   </div>
-
- # <img src='https://i.pinimg.com/originals/8e/87/04/8e8704234ca29db4f5c78e4df469a52e.gif' alt="Flags" width="70" height="60"></img> Team ID : PNT2022TMID46176                     
+  
 # <img src='https://static.wixstatic.com/media/52a89c_83c2f42f74f749d2a02b12efdb086d2c~mv2.gif' alt="Flags" width="70" height="50"></img> Team Members                       
 - Manikandan V(TL)          
 - Thivya R         
