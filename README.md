@@ -4,10 +4,6 @@
 
 <br />
 
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <div align="center">
-    <img src="https://media4.giphy.com/media/3o7ZeKTOAMydhSqL6w/giphy.gif?cid=790b7611a09a0dc942a14eee86e8da8bda25984d9f753bdb&rid=giphy.gif&ct=g" width="500" height="250">
-  </a>
                    
 # IBM-Project-30353-1660144568
 # HX8001 Professional Readiness for Innovation, Employability & Entrepreneurship  
@@ -25,10 +21,10 @@
 
  # <img src='https://i.pinimg.com/originals/8e/87/04/8e8704234ca29db4f5c78e4df469a52e.gif' alt="Flags" width="70" height="60"></img> Team ID : PNT2022TMID46176                     
 # <img src='https://static.wixstatic.com/media/52a89c_83c2f42f74f749d2a02b12efdb086d2c~mv2.gif' alt="Flags" width="70" height="50"></img> Team Members                       
-- Nisha S (TL)          
-- Nandhini R         
-- Ragaswetha M         
-- Meera V                       
+- Manikandan V(TL)          
+- Thivya R         
+- Jeevitha K
+- Karthika V                       
 # <img src='https://media4.giphy.com/media/dZnAEgiyCwFJay2Knu/giphy.gif?cid=790b7611ad8ca35db9b6f5811d7904b8b5354585c5a271b3&rid=giphy.gif&ct=s' alt="Flags" width="70" height="70"></img> Project Descrption
 Fashion recommendation systems (FRSs) generally provide specific recommendations to the consumer based on their browsing and previous purchase history. Social-network-based FRSs consider the user’s social circle, fashion product attributes, image parsing, fashion trends, and consistency in fashion styles as important factors since they impact upon the user’s purchasing decisions.    
 # <img src='https://media3.giphy.com/media/2higF6P3xOhMY/giphy.gif?cid=ecf05e47sbawuft11im81ihv5dvbxslk7lcg4qgoqsewf9vo&rid=giphy.gif&ct=g' alt="Flags" width="70" height="70"></img> Goals & Objectives
