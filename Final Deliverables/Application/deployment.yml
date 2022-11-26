@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: smartcart
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: smartcart
+  template:
+    metadata:
+      labels:
+        app: smartcart
+    spec:
+      containers:
+      - name: smartcart
+        image: us-south.icr.io/smart_cart/smart_cart:latest
